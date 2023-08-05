@@ -1,3 +1,3 @@
 # Painter
-<h3>Hello this is simple Painter App<h3> 
-<h1>using java</h1>
+<h4>Hello this is simple Painter App<h3> 
+<h3>using java</h3>
